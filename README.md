@@ -1,5 +1,5 @@
 # 💫 About Me:
-Machine Learning Project (Kidney Stone Prediction using Machine Learning on CT Scan) <br>I am looking to collaborate hardware and software for medical instrumentation ( I have worked on, Non invasive glucose detection, Foot Ulcer detection and curreltly working on ML based KIdney stone prediction)<br>I want help to get internships, learn web full stack development, AI, Python full stack developer,  etc,<br>Im currenlty pursuing btech in computer science and medical engineering, <br>i wasnt into biology i.e interested in medical field still persuing medical engineering degree
+🎓 CS & Medical Engineering | 🏥 Building MedTech Solutions | 🔭 Working on: Kidney Stone Prediction (ML/CT Scan) | 📂 Past: IoT Glucose & Foot Ulcer Detection | 🌱 Learning Full Stack & AI | 💼 Open for Internships
 
 
 ## 🌐 Socials:
